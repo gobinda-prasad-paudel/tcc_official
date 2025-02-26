@@ -99,7 +99,7 @@ const magazineData = [
     name: "Infinity Magazine",
     authors: ["Dummy Data"],
     clubs: ["Trinity Computer Council"],
-    link: "/",
+    link: "/abcd",
   },
   {
     year: 2019,
