@@ -43,12 +43,12 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {menuOpen && (
-        <div className="absolute top-16 right-6 bg-[#1c1c1c] w-48 rounded-lg shadow-lg flex flex-col items-start p-4 md:hidden">
+        <div className="absolute top-16 right-6 bg-[#1c1c1c] w-48 rounded-lg shadow-lg flex flex-col items-start p-3 md:hidden">
           {navBarItems.map((item, id) => (
             <a
               key={id}
               href={item.link}
-              className="w-full py-3 hover:bg-[#bb8e45] rounded-lg transition"
+              className="w-full py-2 hover:bg-[#bb8e45] rounded-lg transition"
             >
               {item.itemName}
             </a>

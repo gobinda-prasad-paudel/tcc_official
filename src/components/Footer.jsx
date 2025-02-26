@@ -104,7 +104,7 @@ const Footer = () => {
             <div className="text-[var(--neutral-2)] text-center">
               Developed by{" "}
               <a
-                href="https://gobindapoudel.com.np/"
+                href="/developer"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[var(--accent-2)] hover:text-[var(--secondary-color--dark)] transition-colors"

@@ -50,7 +50,6 @@ const App = () => {
       <div id="page1">
         <div id="cursor">TCC</div>
         <div id="page1-content">
-          {/* <Navbar /> */}
           <Hero />
         </div>
       </div>
@@ -73,8 +72,6 @@ const App = () => {
       <hr />
       <Notice />
       <ProjectsSection />
-
-      {/* <Footer /> */}
     </div>
   );
 };

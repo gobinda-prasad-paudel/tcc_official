@@ -13,21 +13,14 @@ const Hero = () => {
           provide a platform for students to showcase their technical skills and
           knowledge. We conduct various workshops, hackathons, and events to
           help students learn and grow in the field of technology. */}
-          Trinity Computer Council is a student-led organization focused on
-          providing a platform for students to develop and showcase their
-          technical skills and knowledge. Our goal is to create an environment
-          that encourages innovation, learning, and collaboration in the
-          ever-evolving field of technology. We organize a variety of events,
-          including workshops, hackathons, and seminars, to help students learn
-          new technologies and improve their problem-solving abilities. These
-          activities offer hands-on experience and foster creativity, providing
-          students with the opportunity to apply theoretical concepts to
-          real-world challenges. By engaging with industry professionals, we
-          also offer exposure to the latest trends and technologies, giving
-          students valuable insights into potential career paths. Whether you’re
-          interested in coding, cybersecurity, AI, or software development, the
-          Trinity Computer Council is a space for you to grow and connect with
-          like-minded individuals.
+          Trinity Computer Council is a student-led club focused on providing a
+          platform for students of Trinity International College to develop and
+          showcase their technical skills and knowledge. Our goal is to create
+          an environment that encourages innovation, learning, and collaboration
+          in the ever-evolving field of technology. We organize a variety of
+          events, including workshops, hackathons, and seminars, to help
+          students learn new technologies and improve their problem-solving
+          abilities.
         </p>
         <a
           href="#projects"

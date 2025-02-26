@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Developer from "./pages/Developer";
 import Members from "./pages/Members";
 import Pagenotfound from "./pages/Pagenotfound";
+import DevTest from "./pages/DevTest";
 
 const router = createBrowserRouter([
   {
