@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
-import Home from "./pages/Home"; // Ensure Home is correctly imported
-import Developer from "./pages/Developer"; // Ensure Developer is correctly imported
-import Members from "./pages/Members"; // Ensure Members is correctly imported
+import Home from "./pages/Home";
+import Developer from "./pages/Developer";
+import Members from "./pages/Members";
 import Pagenotfound from "./pages/Pagenotfound";
 
 const router = createBrowserRouter([
@@ -11,19 +11,22 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       {
-        index: true, // Default route inside children (instead of `path: "/"`)
+        index: true, // Default route
         element: <Home />,
       },
       {
-        path: "/developer",
+        path: "developer", // ✅ No leading slash
         element: <Developer />,
       },
       {
-        path: "/team-members",
+        path: "team-members", // ✅ No leading slash
         element: <Members />,
       },
+      {
+        path: "*", // ✅ Catch-all route for 404 pages
+        element: <Pagenotfound />,
+      },
     ],
-    errorElement: <Pagenotfound />, // Handles unknown routes automatically
   },
 ]);
 
