@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../assets/club_logo.png";
 
 const Hero = () => {
   return (
@@ -33,7 +34,7 @@ const Hero = () => {
       {/* Right Section */}
       <div className="md:w-1/3 w-full order-1 md:order-2 mt-4 md:mt-0">
         <img
-          src="https://scontent.fktm17-1.fna.fbcdn.net/v/t39.30808-6/241166429_106503511767148_265667793722597058_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uz5oH6Eifr0Q7kNvgGuZt9u&_nc_oc=AdgOi_wKZqroJFLNoa14q3A5amjYH3gm3O42nFjB5Gm0c5HGiVONBzvEedc58LaiFLQxYCvFxigy-hoN-dcA0kDM&_nc_zt=23&_nc_ht=scontent.fktm17-1.fna&_nc_gid=ABJGDxWRELwqw1KuzPrthx-&oh=00_AYBEi8yzlOvXQpCIlcQEbj6qgjuYC5H9UGi6XSHYubotnA&oe=67C28034"
+          src={logo}
           alt="Trinity Computer Council Logo"
           className="w-3/4 md:w-full mx-auto rounded-lg"
         />

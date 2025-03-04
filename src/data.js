@@ -179,8 +179,7 @@ const achievements = [
     title: "Trinity Intra College IT Exhibition 2025 Winner",
     project: "EduCare",
     description: "Awarded for innovative approach in educational technology",
-    image:
-      "https://scontent.fktm17-1.fna.fbcdn.net/v/t39.30808-6/475499323_1015250990649157_5309871322683642906_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eAYzIWmMP1MQ7kNvgGOltKf&_nc_oc=AdhmiHDVzfuC0RCfzHmBGQSUPmT9KRGArCKXsbICupJ5TxRPbQ_3uZ-3BqQRf1nhvR6yT8DxSKh-9WlYqoAfGkmW&_nc_zt=23&_nc_ht=scontent.fktm17-1.fna&_nc_gid=AkYWkVoXmkBTlv-bZTvfJVy&oh=00_AYC7RDmWGb04Dqo0UEaPzqZ7uZl6yKiLJvIW7XRajhdEBg&oe=67C26B8E",
+    image: "../assets/trinity_it.jpg",
     date: "2081 Magh 16",
     links:
       "https://www.facebook.com/photo/?fbid=1015250983982491&set=pcb.1015252377315685",
