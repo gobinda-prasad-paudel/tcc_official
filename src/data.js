@@ -179,7 +179,8 @@ const achievements = [
     title: "Trinity Intra College IT Exhibition 2025 Winner",
     project: "EduCare",
     description: "Awarded for innovative approach in educational technology",
-    image: "../assets/trinity_it.jpg",
+    image:
+      "https://raw.githubusercontent.com/gobinda-prasad-paudel/tcc_official/refs/heads/main/src/assets/trinity_it.jpg",
     date: "2081 Magh 16",
     links:
       "https://www.facebook.com/photo/?fbid=1015250983982491&set=pcb.1015252377315685",
@@ -189,7 +190,7 @@ const achievements = [
     project: "EduCare",
     description: "Awarded top competitive coder with various prizes",
     image:
-      "https://scontent.fktm17-1.fna.fbcdn.net/v/t39.30808-6/476109371_1020879213419668_360045725501490852_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=80vTpa-Y7O8Q7kNvgFXRCVe&_nc_oc=Adhd0J67hbslTe_53fgo3tZixRI1mXOYMn0zQf9U3VUtts-MPtiMYTrlgEgUUaV7b8W6OLmZQ9SuxEntXOKLsPAm&_nc_zt=23&_nc_ht=scontent.fktm17-1.fna&_nc_gid=AaQ2f4T_dHkai07lVplbs09&oh=00_AYBKiEiRLNgAdby9ALNgKgVakAT1cLkKvE6gvZLMgVr9eA&oe=67C24FD0",
+      "https://raw.githubusercontent.com/gobinda-prasad-paudel/tcc_official/refs/heads/main/src/assets/battle_with_code.jpg",
     date: "2081 Magh 16",
     links:
       "https://www.facebook.com/photo/?fbid=1020879210086335&set=a.556865476487713",
